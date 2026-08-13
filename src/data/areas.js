@@ -15,7 +15,7 @@ export const areas = [
     startingKnowledge: ['Lógica de programação', 'HTML e CSS', 'Uma linguagem de programação (Python ou JavaScript)', 'Git básico'],
     icon: 'code',
     color: '#2563eb',
-    referenceUrl: 'https://www.redhat.com/pt-br/topics/devops/what-is-software-development',
+    referenceUrl: 'https://www.ibm.com/br-pt/think/topics/software-development',
   },
   {
     id: 'dados',
@@ -33,7 +33,7 @@ export const areas = [
     startingKnowledge: ['Excel', 'SQL', 'Estatística básica', 'Visualização de dados'],
     icon: 'bar-chart',
     color: '#059669',
-    referenceUrl: 'https://www.ibm.com/br-pt/analytics/data-analysis',
+    referenceUrl: 'https://www.insper.edu.br/pt/conteudos/tecnologia/analista-de-dados',
   },
   {
     id: 'ia',
@@ -51,7 +51,7 @@ export const areas = [
     startingKnowledge: ['Python', 'Matemática e estatística básica', 'Fundamentos de machine learning', 'Manipulação de dados'],
     icon: 'cpu',
     color: '#7c3aed',
-    referenceUrl: 'https://www.ibm.com/br-pt/artificial-intelligence',
+    referenceUrl: 'https://www.alura.com.br/artigos/especialista-em-ia',
   },
   {
     id: 'seguranca',
@@ -69,7 +69,7 @@ export const areas = [
     startingKnowledge: ['Redes de computadores', 'Sistemas operacionais', 'Fundamentos de cibersegurança', 'Lógica e raciocínio analítico'],
     icon: 'shield',
     color: '#dc2626',
-    referenceUrl: 'https://www.cisco.com/c/pt_br/products/security/what-is-cybersecurity.html',
+    referenceUrl: 'https://www.ibm.com/br-pt/think/topics/information-security',
   },
   {
     id: 'cloud',
@@ -105,7 +105,7 @@ export const areas = [
     startingKnowledge: ['Fundamentos de design', 'Ferramentas como Figma', 'Princípios de usabilidade', 'Pesquisa básica com usuários'],
     icon: 'layout',
     color: '#d97706',
-    referenceUrl: 'https://brasil.uxdesign.cc/o-que-%C3%A9-ux-design-afinal-c5a2e3cf3b47',
+    referenceUrl: 'https://www.alura.com.br/artigos/ui-design',
   },
   {
     id: 'qualidade',
@@ -123,6 +123,6 @@ export const areas = [
     startingKnowledge: ['Lógica de programação', 'Noções de desenvolvimento', 'Metodologias ágeis básicas', 'Atenção a detalhes'],
     icon: 'check-circle',
     color: '#16a34a',
-    referenceUrl: 'https://www.atlassian.com/br/agile/software-testing/qa-testing',
+    referenceUrl: 'https://www.softdesign.com.br/blog/o-papel-do-qa-no-time-de-produto/',
   },
 ];
